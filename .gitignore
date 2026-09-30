@@ -1,0 +1,18 @@
+node_modules/
+dist/
+.npm-cache/
+.gradle-user-home/
+.android-user-home/
+.idea/
+.vscode/
+*.log
+*.iml
+.DS_Store
+
+# Android / Gradle
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/captures/
+android/.idea/
