@@ -11,8 +11,8 @@ Preencher antes da entrega:
 - **Curso:** Informática
 - **Instituição/turma:** Faculdade Senac / 3°
 - **Integrante 1:** Kaua
-- **Integrante 2:** Miguel Henriqueta Soares
-- **Integrante 3:** Enrique
+- **Integrante 2:** Enrique 
+- **Integrante 3:** Miguel
 
 Não substitua esses campos por nomes ou perfis que não correspondam às contribuições reais.
 
